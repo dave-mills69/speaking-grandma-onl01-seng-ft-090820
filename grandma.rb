@@ -1,5 +1,6 @@
 def speak_to_grandma
-  puts "HUH?! SPEAK UP, SONNY!".upcase 
+  puts "HUH?! SPEAK UP, SONNY!"
+end
   
 
 # Whatever you say to grandma, she should respond with
