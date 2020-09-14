@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
 # unless you shout it (type in all capitals).
   if phrase == "I LOVE YOU GRANDMA"
     return "I LOVE YOU TOO PUMPKIN!"
-  elseif phrase ==
+  elseif phrase == phrase.downcase
 
 
 
