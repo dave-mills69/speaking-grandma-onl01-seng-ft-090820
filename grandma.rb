@@ -1,6 +1,7 @@
 if speak_to_grandma == .downcase
   puts "HUH?! SPEAK UP, SONNY!"
-else
+else speak_to_grandma == .upcase
+  puts
 
 def speak_to_grandma
   puts "HUH?! SPEAK UP, SONNY!"
