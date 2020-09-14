@@ -3,11 +3,12 @@ def speak_to_grandma(phrase)
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
   if phrase == "I LOVE YOU GRANDMA"
-    return "I LOVE YOU TOO PUMPKIN!
-  elseif 
+    return "I LOVE YOU TOO PUMPKIN!"
+  elseif phrase ==
 
 
 
+end 
 
 
   
