@@ -1,7 +1,7 @@
 def speak_to_grandma(phrase)
-  if phrase("hello grandma".downcase) then puts "HUH?! SPEAK UP, SONNY!"
-  elseif phrase("hello grandma".upcase) then puts "NO, NOT SINCE 1938!"
-end
+# Whatever you say to grandma, she should respond with
+# HUH?! SPEAK UP, SONNY!
+  
   
 
 
