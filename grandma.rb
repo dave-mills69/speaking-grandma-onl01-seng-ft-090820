@@ -1,4 +1,4 @@
-if sp
+if speak_to_grandma == .upcase
 
 def speak_to_grandma
   puts "HUH?! SPEAK UP, SONNY!"
