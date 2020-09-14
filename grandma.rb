@@ -3,6 +3,7 @@ def speak_to_grandma(phrase)
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
   if phrase == "I LOVE YOU GRANDMA"
+    return 
 
 
 
