@@ -1,11 +1,10 @@
-if speak_to_grandma == .downcase
+if speak_to_grandma == speak_to_grandma.downcase
   puts "HUH?! SPEAK UP, SONNY!"
-else speak_to_grandma == .upcase
-  puts
-
-def speak_to_grandma
-  puts "HUH?! SPEAK UP, SONNY!"
+else speak_to_grandma == speak_to_grandma.upcase
+  puts "NO, NOT SINCE 1938!"
 end
+
+
   
 
 # Whatever you say to grandma, she should respond with
