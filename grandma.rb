@@ -1,5 +1,5 @@
 if speak_to_grandma == .downcase
-  puts 
+  puts ""
 
 def speak_to_grandma
   puts "HUH?! SPEAK UP, SONNY!"
