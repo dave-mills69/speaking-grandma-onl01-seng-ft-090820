@@ -1,15 +1,11 @@
 def speak_to_grandma
   if phrase("hello grandma".downcase) then puts "HUH?! SPEAK UP, SONNY!"
-  elseif phrase("hello grandma".upcase) then puts 
+  elseif phrase("hello grandma".upcase) then puts "NO, NOT SINCE 1938!"
+end
   
 
 
 
-if speak_to_grandma == speak_to_grandma.downcase
-  puts "HUH?! SPEAK UP, SONNY!"
-else speak_to_grandma == speak_to_grandma.upcase
-  puts "NO, NOT SINCE 1938!"
-end
 
 
   
